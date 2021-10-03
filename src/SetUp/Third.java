@@ -6,6 +6,8 @@ public class Third {
     public static void main(String[] args) {
         System.out.println("Do it correct");
 
+        // just need to add some notes
+
 
     }
 }
